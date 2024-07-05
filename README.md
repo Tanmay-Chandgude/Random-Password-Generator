@@ -1,4 +1,4 @@
-# Random-Password-Generator
+Random-Password-Generator
 
 # Overview: -
 This project is a Random Password Generator built using HTML, CSS, and JavaScript. It generates strong, random passwords that include uppercase letters, lowercase letters, numbers, and symbols. The generated passwords are 8 characters long by default. The interface allows users to easily copy the generated password to their clipboard, with a popup notification indicating that the password has been copied.
